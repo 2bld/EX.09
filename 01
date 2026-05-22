@@ -1,0 +1,4 @@
+nome=input("Seu nome: ")
+def imprimir_nome():
+	print(nome)
+imprimir_nome(
